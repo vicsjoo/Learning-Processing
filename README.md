@@ -1,2 +1,2 @@
 # Learning Processing
-Self describing.
+Self describing. Basic stuff.
